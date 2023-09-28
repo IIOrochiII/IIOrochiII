@@ -3,7 +3,7 @@ Hi,
 I'm Daniel i like to program, and research things. 
 I like linux, and open-source software
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IIOrochiII&show_icons=true&theme=dark)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IIOrochiII&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IIOrochiII&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
